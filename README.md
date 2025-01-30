@@ -1,5 +1,12 @@
 # NoSQL_Investigation
 
+## Types
+
+- Graph \
+- Document \
+- Key-value \
+- Wide-columm 
+
 ## Advantages
 
 - Denormalize data \
